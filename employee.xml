@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="employee.xsd">
+
+   <Employee>
+   <id>1</id>
+    <Emp-name>Khitiz</Emp-name>
+    <Emp-age>60</Emp-age>
+    <Emp-salary>85000</Emp-salary>
+    <Emp-emailid>khitiz@xbc.com</Emp-emailid>
+    <Emp-Phonenum>9874563214</Emp-Phonenum>
+    <Emp-designation>Manager</Emp-designation>
+   </Employee>
+
+   <Employee>
+   <id>2</id>
+    <Emp-name>Swarnlekha</Emp-name>
+    <Emp-age>45</Emp-age>
+    <Emp-salary>75000</Emp-salary>
+    <Emp-emailid>swarnlekha@xbc.com</Emp-emailid>
+    <Emp-Phonenum>6202145987</Emp-Phonenum>
+    <Emp-designation>Assistant Manager</Emp-designation>
+   </Employee> 
+   
+   <Employee>
+   <id>3</id>
+    <Emp-name>Srishti</Emp-name>
+    <Emp-age>38</Emp-age>
+    <Emp-salary>60000</Emp-salary>
+    <Emp-emailid>surusti@xbc.com</Emp-emailid>
+    <Emp-Phonenum>7909845632</Emp-Phonenum>
+    <Emp-designation>HR</Emp-designation>
+   </Employee>
+
+   <Employee>
+   <id>4</id>
+    <Emp-name>Ananya</Emp-name>
+    <Emp-age>27</Emp-age>
+    <Emp-salary>70000</Emp-salary>
+    <Emp-emailid>ananya@xbc.com</Emp-emailid>
+    <Emp-Phonenum>9875287631</Emp-Phonenum>
+    <Emp-designation>Accountant</Emp-designation>
+   </Employee>
+
+      <Employee>
+      <id>5</id>
+    <Emp-name>Achyut</Emp-name>
+    <Emp-age>55</Emp-age>
+    <Emp-salary>60000</Emp-salary>
+    <Emp-emailid>achyut@xbc.com</Emp-emailid>
+    <Emp-Phonenum>7854621456</Emp-Phonenum>
+    <Emp-designation>Junior Accountant</Emp-designation>
+   </Employee>
+
+   <Employee>
+   <id>6</id>
+    <Emp-name>Kalyan</Emp-name>
+    <Emp-age>23</Emp-age>
+    <Emp-salary>75000</Emp-salary>
+    <Emp-emailid>kalyan@xbc.com</Emp-emailid>
+    <Emp-Phonenum>8745963578</Emp-Phonenum>
+    <Emp-designation>Salesman</Emp-designation>
+   </Employee>
+
+
+   <Employee>
+   <id>7</id>
+    <Emp-name>Ravish</Emp-name>
+    <Emp-age>44</Emp-age>
+    <Emp-salary>18000</Emp-salary>
+    <Emp-emailid>ravish@xbc.com</Emp-emailid>
+    <Emp-Phonenum>9852147561</Emp-Phonenum>
+    <Emp-designation>Salesman</Emp-designation>
+   </Employee>
+
+   <Employee>
+   <id>8</id>
+    <Emp-name>Albert</Emp-name>
+    <Emp-age>21</Emp-age>
+    <Emp-salary>52000</Emp-salary>
+    <Emp-emailid>albert@xbc.com</Emp-emailid>
+    <Emp-Phonenum>8654712596</Emp-Phonenum>
+    <Emp-designation>Trainee</Emp-designation>
+   </Employee>
+   
+
+</Company>
