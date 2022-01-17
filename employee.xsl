@@ -58,7 +58,7 @@
 		    </body>
 		</html>
 </xsl:template>
-        <xsl:template match = "airlineName"> 
+        <xsl:template match = "course"> 
         	<span style = "font-size = 22px;"> <xsl:value-of select = "." />     </span> <br/> 
         </xsl:template>  
 </xsl:stylesheet>
